@@ -1,0 +1,56 @@
+@CHARSET "UTF-8";
+body{
+    background-color: #bfdf78;
+}
+.jumbotron {
+    background-image: url(ingredient.jpg);
+    background-position: 0% 20%;
+    background-size: 100%;
+	margin-bottom: 0px;
+    background-repeat:no-repeat;
+    background-color:#bfdf78;
+}
+
+
+.page-header {
+	border-bottom: 0px;
+}
+
+.navbar-header{
+    
+}
+.dropdown-menu{
+    background-color:#a1c64c;
+}
+.navbar navbar-inverse{
+    background-color:#a1c64c;
+}
+.row{
+    background-color:#7ca25d;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    color:black;
+    border-width:5px;
+}
+.list-group{
+    margin-top:70px;
+	margin-bottom: 70px;
+   
+
+}
+.list-group-item{
+    background-color:#a1c64c;
+    border-color:black;
+    
+}
+.list-group-item a{
+    color:#34616a;
+}
+.container-fluid{
+    
+}
+
+#aboutUs{
+    text-align:center;
+}
+
