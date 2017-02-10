@@ -8,7 +8,7 @@
 		
 		<meta charset="utf-8">
 		<meta George Hatch>
-    <meta Jacob Colleran>
+        <meta Jacob Colleran>
 		<meta CT310>
 		<meta Home Page>
     <meta IFY>
@@ -17,8 +17,8 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">	
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-		<link rel="stylesheet" href="custom.css">
-		<title>Adventurely</title>
+		<link rel="stylesheet" href="project1.css">
+		<title>IFY</title>
 
 	</head>
 
@@ -47,16 +47,14 @@
 				</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav">
-                <li class="dropdown">
-                    <a href="#todo" class="navbar-toggle" data-toggle="collapse" role="button" aria-haspopup="true" aria-expanded="false">About Us<span class="caret"></span></a>
-                            
-                </li>
+                <li><a href="http://www.cs.colostate.edu/~powhound/project1/frontpage.html" >Home</a></li>
+                    <li><a href="#todo" >About Us</a></li>
                 <li class="dropdown">          
-                    <a href="#TODO" class="dropdown-toggle-split" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ingredients<span class="caret"></span></a>
+                    <a href="#TODO" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ingredients<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="#todo">Ingredient 1</a></li>
-                                <li><a href="todo">Ingredient 2</a></li>
-                                <li><a href="todo">Ingredient 3</a></li>
+                                <li><a href="./ing1.html">Ingredient 1</a></li>
+                                <li><a href="./ing2.html">Ingredient 2</a></li>
+                                <li><a href="./ing3.html">Ingredient 3</a></li>
                             </ul>
                 </li>
       
@@ -72,24 +70,26 @@
 		<div class="container-fluid">
 		<br></br>
 			<div class="row">
-                <div class="col-xs-4 col-md-3 col-lg-3">
+                <div class="col-xs-4">
                 
-                    
-                        <center><img src="ingredient1.jpg" class="img-square" alt="ing1" width=70% height=70%></center>
+                    <h3><center><strong>Ingredient 1</strong></center></h3>
+                        <center><img src="ing1.jpg" class="img-square" alt="ing1" width=70% height=70%></center>
                 <br></br>
 
 
                 </div>
 
 	<!--second ingredient -->
-	<div class="col-xs-8 col-md-6 col-lg-6">
-	  <center><img src="ingredient1.jpg" class="img-square" alt="ing1" width=70% height=70%></center>
+	<div class="col-xs-4">
+	<h3><center><strong>Ingredient 2</strong></center></h3>
+	  <center><img src="ing2.jpg" class="img-square" alt="ing2" width=70% height=70%></center>
                 <br></br>
                 </div>
    
 	<!-- thrid ingredient -->				
-			<div class="hidden-xs hidden-sm col-md-3 col-lg-3">
-                <center><img src="Guide1.jpg" class="img-circle" alt="guide" width=70% height=70%></center>
+			<div class="col-xs-4">
+			<h3><center><strong>Ingredient 3</strong></center></h3>
+                <center><img src="ing3.jpg" class="img-square" alt="ing3" width=70% height=70%></center>
                 <br></br>
                 
                 </div>
