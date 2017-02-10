@@ -38,36 +38,38 @@
 		
             <?php include('inc.navbar.php');?>
 		
-		
-	<!-- first ingredient-->
-		
 		<div class="container-fluid">
-		<br></br>
+	
+		<div class="row1">
+            <h1>Welcome</h1>
+            <p>Choose from our three ingredients to help you spice up your life!</p>
+		</div>
+		
 			<div class="row">
+			
+	<!-- first ingredient-->
                 <div class="col-xs-4">
-                
                     <h3><center><strong>Ingredient 1</strong></center></h3>
-                        <center><img src="ing1.jpg" class="img-square" alt="ing1" width=70% height=70%></center>
-                <br></br>
-
-
+                    <center><img src="ing1.jpg" class="img-square" alt="ing1" width=70% height=70%></center>
+                    <p><center>This tastes great on Chicken</center></p>
+                    <br></br>
                 </div>
 
 	<!--second ingredient -->
-	<div class="col-xs-4">
-	<h3><center><strong>Ingredient 2</strong></center></h3>
-	  <center><img src="ing2.jpg" class="img-square" alt="ing2" width=70% height=70%></center>
-                <br></br>
+                <div class="col-xs-4">
+                    <h3><center><strong>Ingredient 2</strong></center></h3>
+                    <center><img src="ing2.jpg" class="img-square" alt="ing2" width=70% height=70%></center>
+                    <p><center>This tastes great on Fish</center></p>
+                    <br></br>
                 </div>
    
 	<!-- thrid ingredient -->				
-			<div class="col-xs-4">
-			<h3><center><strong>Ingredient 3</strong></center></h3>
-                <center><img src="ing3.jpg" class="img-square" alt="ing3" width=70% height=70%></center>
-                <br></br>
-                
+                <div class="col-xs-4">
+                    <h3><center><strong>Ingredient 3</strong></center></h3>
+                    <center><img src="ing3.jpg" class="img-square" alt="ing3" width=70% height=70%></center>
+                    <p><center>This tastes great on Beef</center></p>
+                    <br></br>
                 </div>
-
 			</div>
 		</div>
 		
