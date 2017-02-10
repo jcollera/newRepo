@@ -35,35 +35,9 @@
 	
 	<!-- Create the collapsing navigation bar -->
 		
-		<nav class="navbar navbar-inverse">
-			<div class="container-fluid">
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-						<span class="icon-bar"></span>       
-						<span class="icon-bar"></span>      
-						<span class="icon-bar"></span>                      
-					</button>
-					<a class="navbar-brand" href="#TODO">IFY</a>
-				</div>
-			<div class="collapse navbar-collapse" id="myNavbar">
-                <ul class="nav navbar-nav">
-                <li><a href="http://www.cs.colostate.edu/~powhound/project1/frontpage.html" >Home</a></li>
-                    <li><a href="#todo" >About Us</a></li>
-                <li class="dropdown">          
-                    <a href="#TODO" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ingredients<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="./ing1.html">Ingredient 1</a></li>
-                                <li><a href="./ing2.html">Ingredient 2</a></li>
-                                <li><a href="./ing3.html">Ingredient 3</a></li>
-                            </ul>
-                </li>
-      
-                </ul>
-            </div>
-
-			</div>
-			</div>
-		</nav>
+		
+            <?php include('inc.navbar.php');?>
+		
 		
 	<!-- first ingredient-->
 		
@@ -97,7 +71,6 @@
 			</div>
 		</div>
 		
-        <div class="footer">
-        <p><center>&copy; Copyright 2017 George Hatch & Jacob Colleran This site is part of a CSU <a href="https://www.cs.colostate.edu/~ct310/yr2017sp/index.php">CT 310</a> Course Project.</center></p></div>
+        <?php include('inc.footer.php');?>
 	</body>
 </html>
