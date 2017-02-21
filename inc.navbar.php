@@ -1,4 +1,3 @@
-
 <nav class="navbar navbar-inverse">
     <div class="container-fluid">
         <div class="navbar-header">
@@ -17,9 +16,9 @@
                 <li class="dropdown">          
                     <a href="#TODO" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ingredients<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="./ing1.php">Ingredient 1</a></li>
-                            <li><a href="./ing2.php">Ingredient 2</a></li>
-                            <li><a href="./ing3.php">Ingredient 3</a></li>
+                            <li><a href="./ing1.php">Shallots</a></li>
+                            <li><a href="./ing2.php">Snap Peas</a></li>
+                            <li><a href="./ing3.php">Collard Greens</a></li>
                         </ul>
                 </li>
             </ul>
