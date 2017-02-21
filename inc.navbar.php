@@ -13,6 +13,7 @@
             <ul class="nav navbar-nav">
                 <li><a href="http://www.cs.colostate.edu/~powhound/project1/frontpage.php" >Home</a></li>
                 <li><a href="./aboutus.php" >About Us</a></li>
+                <li><a href="./Login.php" >Log In</a></li>
                 <li class="dropdown">          
                     <a href="#TODO" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ingredients<span class="caret"></span></a>
                         <ul class="dropdown-menu">
