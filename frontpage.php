@@ -49,7 +49,7 @@
 			
 	<!-- first ingredient-->
                 <div class="col-xs-4">
-                    <h3><center><strong>Ingredient 1</strong></center></h3>
+                    <h3><center><strong>Shallots</strong></center></h3>
                     <center><img src="ing1.jpg" class="img-square" alt="ing1" width=70% height=70%></center>
                     <p><center>This tastes great on Chicken</center></p>
                     <br></br>
@@ -57,7 +57,7 @@
 
 	<!--second ingredient -->
                 <div class="col-xs-4">
-                    <h3><center><strong>Ingredient 2</strong></center></h3>
+                    <h3><center><strong>Snap Peas</strong></center></h3>
                     <center><img src="ing2.jpg" class="img-square" alt="ing2" width=70% height=70%></center>
                     <p><center>This tastes great on Fish</center></p>
                     <br></br>
@@ -65,7 +65,7 @@
    
 	<!-- thrid ingredient -->				
                 <div class="col-xs-4">
-                    <h3><center><strong>Ingredient 3</strong></center></h3>
+                    <h3><center><strong>Collard Greens</strong></center></h3>
                     <center><img src="ing3.jpg" class="img-square" alt="ing3" width=70% height=70%></center>
                     <p><center>This tastes great on Beef</center></p>
                     <br></br>
