@@ -7,10 +7,9 @@
 	<!-- Add required bootstrap CDN links for style sheet and required scripts -->
 		
 		<meta charset="utf-8">
-		<meta George Hatch>
-        <meta Jacob Colleran>
-		<meta CT310>
-		<meta Home Page>
+		<meta name="author" content="George Hatch, Jake Colleran" />
+		<meta name="keywords" content= "CT310, Home Page" />
+
     <meta IFY>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
