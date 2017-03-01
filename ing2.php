@@ -7,10 +7,9 @@
 	<!-- Add required bootstrap CDN links for style sheet and required scripts -->
 		
 		<meta charset="utf-8">
-		<meta George Hatch>
-    <meta Jacob Colleran>
-		<meta CT310>
-		<meta ingredient2>
+		<meta name="author" content="George Hatch, Jake Colleran" />
+		<meta name="keywords" content= "CT310, Snap Peas" />
+
     <meta IFY>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -51,7 +50,7 @@
 
 	<!-- ingredient -->
 	<div class="col-xs-6">
-	<h3><center><strong>Ingredient 2</strong></center></h3>
+	<h3><center><strong>Snap Peas</strong></center></h3>
 	  <center><img src="ing2.jpg" class="img-square" alt="ing2" width=70% height=70%></center>
                 <br></br>
                 </div>
