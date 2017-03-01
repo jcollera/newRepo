@@ -7,9 +7,9 @@ session_start();
 
 <head>
 <TITLE>My </TITLE>
-<meta name="author" content="Jake Colleran" />
-<meta name="description" content="about the author" />
-<meta name="keywords" content="HTML, CT310" />
+		<meta name="author" content="George Hatch, Jake Colleran" />
+		<meta name="keywords" content= "CT310, Login" />
+
 
 
 
@@ -86,7 +86,7 @@ session_start();
 		<nav class="navigation">
 
 	</nav>
-	&copy; Copyright 2017,
+	<?php include('inc.footer.php');?>
 	
 	</div>
 
